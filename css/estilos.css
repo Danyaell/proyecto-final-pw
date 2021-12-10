@@ -1,3 +1,8 @@
+/*Hoja de estilos de la página web.
+    Se utiliza CSS Grid y Flexbox en algunos casos para mantener control
+    En el display de los items mostrados y poder mejorar la estructura.
+*/
+
 * {
     margin: 1px 0 0 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
